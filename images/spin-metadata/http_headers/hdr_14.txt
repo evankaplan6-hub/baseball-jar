@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Mon, 19 Oct 2026 05:21:11 GMT
+content-type: image/jpeg
+content-length: 1446251
+last-modified: Tue, 13 Oct 2026 01:18:53 GMT
+cache-control: max-age=605698
+etag: "6acd86fd-16116b"
+server: Sirv.Imagination
+x-sirv-cdn-server: sirvcdn-usa-31
+x-sirv-cdn-cache: HIT
+x-sirv-server: c1-extra2-fireball-7
+x-sirv-cache: HIT
+x-content-type-options: nosniff
+access-control-allow-origin: *
+access-control-allow-headers: *
+expires: Mon, 26 Oct 2026 05:36:09 GMT
+x-sirv-meta-width: 4284
+x-sirv-meta-height: 5712
+x-sirv-shard: c1-riak4-new
+accept-ranges: bytes
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-sirv-deploy: 91d4c7b5c1
+

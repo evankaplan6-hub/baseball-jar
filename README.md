@@ -33,6 +33,10 @@ python3 jar_estimate.py
 
 It needs `numpy`.
 
+## Source images
+
+`images/` holds the 26 studio-spin photos at full 4284 x 5712 resolution, their original EXIF records, and FanDuel's dimension graphic (6 ft 2 11/16 in tall, 2 7/8 in balls). They belong to FanDuel and the fabricator. `images/README.md` says where each one came from.
+
 ## Not in this repo
 
-The photos themselves (they belong to FanDuel and the fabricator) and the pixel-measurement scripts, which were scratch files and are gone. The pixel measurements they produced are the numbers hard-coded in `jar_estimate.py`.
+The pixel-measurement scripts, which were scratch files and are gone. The pixel measurements they produced are the numbers hard-coded in `jar_estimate.py`.
